@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/satyam-sahoo-1/react_test_2.git/static/css/main.95f95657.css",
+    "main.js": "/satyam-sahoo-1/react_test_2.git/static/js/main.a4578465.js",
+    "index.html": "/satyam-sahoo-1/react_test_2.git/index.html",
+    "main.95f95657.css.map": "/satyam-sahoo-1/react_test_2.git/static/css/main.95f95657.css.map",
+    "main.a4578465.js.map": "/satyam-sahoo-1/react_test_2.git/static/js/main.a4578465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f95657.css",
+    "static/js/main.a4578465.js"
+  ]
+}
